@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d69222ef-9034-4053-bc4b-8f3c3fb53831" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" "false"/>
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
